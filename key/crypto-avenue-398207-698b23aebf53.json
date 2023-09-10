@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crypto-avenue-398207",
+  "private_key_id": "698b23aebf532eaf8a90fbc6a297c0ca0d7a42f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCc7ShQQhbXz1n6\n3DlFNwmnxQEHlpqbNi/tHvx1FYEDxSZ5Kn/Lp5XLEXj4IhR72BBjs2MQ38Giulg2\nGCFACMyL/VY374/BJS6Ol0wSv0DqmXITReFGKT1DZkxhtaVlWWyJsMAqaa/tzDrJ\njzRGEbTVINrJzrLlRPeeXkuHfQwWQJYcEIVo+HgyIDPn/eAU/vh/R9b1IeSNkdQf\nzVrGfC6W6elat0QS3q+eLEY20rdQG6xAlura3j6+4BWLf7r6/2ztFd8wwqSG40iz\n82AW6LDNfKxUKkWobUTcC3Q4Ri+wDaZ25UUbY12ugXEWN639tfEPOAxeFdd1D+OG\n9EmhPk7xAgMBAAECggEAAIwzBAiZAw+MHKwXa9kKuMcQmuOeISuEY8dJ8HdwUzk2\nsuuqw9lgqLwqBeaqF50NesWYXw9lwfnMH0M09Gibc93YKcO+L23XO7KMCvmpJRNc\nRBdLN15daERML4L5TxnovDs8H+eWCpTJjWqX4Kp/Fcd2+LuT1YwRd6jaEBrcQz6/\ntpkWcavIBBEtjOuKl9xhdmJOC/HmD6Dl2oHJQirrOTFqSdEBVfHclCi7tD/gQHJk\nzBfQzQXQua7VJ+rzU7JqKXRP4gpm7me3FvHl70kjJaoGuNqkbDYsCn/0xdSUkiaN\nNR6aHM/rVxCNr34sOoqRniGW4B+kyRazYSrXHIQrAQKBgQDZSkdpThJbcSREVyPt\ndBE0eR7OJbKn+eSRVWAsB0DftruM7qjtzM8wPiNk8a6CEx84ZCmfZKzLv13fs1Sx\nd26jkZ6dylL7RacTUx6zCtwqgAtePdNOXBV8hIKsa54YYTX75N5tK/U1jd+eG4LM\nVEYmIQOdm38IBywl+VeOAtYmcQKBgQC44e7QPOMHUEP8YPzipfGjrOCZhGoAmcby\nyqBSc2EUN3H8DmtMA6yXh/rjp7pEn5ANnPv4fzvRTOdk5HNDTDiIe6/2OqFMMBDN\numNHYUN1Nr+KiSsKvn5lLmQI5Mv3z6Ci6aWCsq+Nz2yrlj5LNUhJcOejn+Hdzxr9\nfOHN53vwgQKBgQDTCXxv/z5/B1Uk9slTH05ye0x7BUwOLvtaV+Qu/uB4Jv7i8wyo\n4Sk9fqxbpwtJFA9XcpimUV4uCO/Ai2ivcALJ5G18bPvJRa3ua+U+GUcaFAB2iG+J\nBJBtvjk4AtGqdge7XV7WA0KFwAQ2iBuyHgt/jsL3OQXYozayrwflSkX5UQKBgAeY\nIDslhR3TyjcftMOKlXZnr4Ie0kvcBTQL5rH8U0yFSoVUAkxJClnfGAsp5JjVBRHK\nFP+MGmTqh8a5K5LkGp5glkXC+sUqZEZPFazk7eRur0d9gusaEA8P7MQAwfAX8z09\n47KOrG9iyc/yh/SG58U8ggdSlfCKhU1MR+oxTAIBAoGABlVoe+AS9bDIhKRMEQeh\n8s7FAkVLKkxVMfKeWjcprlRJDtcSXCyiZcI4GRgET3KaRVIskzCPFBJ8zqQIEITK\nxFCFxJEcsNoya0UyKfaUoY3tcwG2RRiRCrYEpwSkdik3AWkMfrADQJ15aaHiWktc\nfSWD7Wi4pGC7nkR0xF62RIk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sa-gcs-push@crypto-avenue-398207.iam.gserviceaccount.com",
+  "client_id": "110203682278599020971",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sa-gcs-push%40crypto-avenue-398207.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
